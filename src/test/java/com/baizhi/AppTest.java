@@ -22,5 +22,6 @@ public class AppTest {
         System.out.println("project需要初始化为Git仓库，而不是module");
         System.out.println("project和module都需要初始化为Git仓库");
         System.out.println("提交project名");
+        System.out.println("啥");
     }
 }
